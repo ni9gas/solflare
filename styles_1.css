@@ -1,0 +1,217 @@
+.css-tvk14o.notistack-MuiContent {
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 8px 12px;
+    display: flex;
+    gap: 60px;
+    background-color: rgb(9, 12, 17);
+   }
+
+   .css-tvk14o.notistack-MuiContent button {
+    color: rgb(255, 255, 255);
+   }
+
+   .css-tvk14o.notistack-MuiContent>div:first-child {
+    padding: 4px 0px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 4px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+   }
+
+   .css-tvk14o.notistack-MuiContent>div:last-child {
+    margin-right: 0px;
+    padding-left: 0px;
+    display: flex;
+    gap: 8px;
+   }
+
+   .css-tvk14o.notistack-MuiContent-info {
+    border: 1px solid rgb(127, 159, 246);
+   }
+
+   .css-tvk14o.notistack-MuiContent-warning {
+    border: 1px solid rgb(255, 184, 0);
+   }
+
+   .css-tvk14o.notistack-MuiContent-error {
+    border: 1px solid rgb(255, 75, 63);
+   }
+
+   .css-tvk14o.notistack-MuiContent-success {
+    border: 1px solid rgb(113, 204, 73);
+   }
+
+   .css-9rsuy3 {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    gap: 12px;
+    padding: 12px;
+   }
+
+   @media (max-width: 900px) {
+    .css-9rsuy3 {
+     flex-direction: column;
+    }
+   }
+
+   .css-6ch85b {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    padding-bottom: 24px;
+    gap: 16px;
+    flex: 1 1 0%;
+    background-color: rgb(12, 15, 20);
+    border-radius: 36px;
+    overflow: scroll;
+   }
+
+   .css-1t1xv2g {
+    padding: 0px 16px;
+   }
+
+   .css-79elbk {
+    position: relative;
+   }
+
+   .css-1h2ab7z {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 36px;
+    margin-top: 4px;
+   }
+
+   .css-5drkfu {
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    padding: 0px 8px;
+   }
+
+   .css-1cl7zdz {
+    max-width: 500px;
+   }
+
+   .css-hsitx {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    -webkit-box-align: center;
+    align-items: center;
+    flex: 1 1 0%;
+    max-width: 453px;
+   }
+
+   .css-1i43dhb {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+   }
+
+   .css-1purcmo {
+    color: rgb(245, 248, 255);
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 52.8px;
+    letter-spacing: -0.48px;
+    margin: 0px;
+   }
+
+   .css-1mjs7sk {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 410px;
+   }
+
+   .css-1n2mv2k {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+   }
+
+   .css-8g86ek {
+    max-width: 540px;
+   }
+
+   .css-1jmbhnp {
+    color: rgba(245, 248, 255, 0.4);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    font-family: "FK Grotesk SemiMono";
+   }
+
+   .css-1t9pz9x {
+    width: 20px;
+    height: 20px;
+   }
+
+   .css-1ar5j39 {
+    border-radius: 36px;
+    background: rgb(255, 241, 79);
+    flex: 1 1 0%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    overflow: hidden;
+   }
+
+   @media (max-width: 899px) {
+    .css-1ar5j39 {
+     display: none;
+    }
+   }
+
+   .css-jk3dd5 {
+    width: 100%;
+    max-width: 900px;
+    object-fit: contain;
+    outline: none;
+    border: none;
+   }
+
+   .css-jk3dd5:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+   }
+  </style>
+  <!--mui-inject-first-->
+  <style data-jss="" data-meta="makeStyles">
+   .jssSolrise1 {
+    z-index: 30000 !important;
+   }
+
+   .jssSolrise2 {
+    margin-bottom: 60px;
+   }
+
+   .jssSolrise3 {
+    margin-top: 9px;
+   }
+
+   .jssSolrise4 {
+    margin: 6px 0px;
+    border-radius: 12px;
+   }
